@@ -1,6 +1,6 @@
 <?php
 include 'config/conexao.php';
-if(!empty($_GET['id'])){ // VAi na minha url e pega o id se não for vazia executa/ botão de edição
+if(!empty($_GET['id'])){ // VAi na minha url e pega o id se não for vazia executa botão de edição
 
 
 
