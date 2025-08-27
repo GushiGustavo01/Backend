@@ -20,6 +20,7 @@ if(!empty($_GET['search']))
 //  e esta guardado na minha bolsa não posso abrir!! 3
 $resultado = mysqli_query($conexao, $sql); 
 
+
 //print_r($resultado);
 //print_r($dadosbanco);
 
